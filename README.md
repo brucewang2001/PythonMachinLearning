@@ -1,6 +1,6 @@
 # PythonMachinLearning
 
-[參考網站](https://www.gitbook.com/book/htygithub/machine-learning-python)
+[參考網站](https://machine-learning-python.kspax.io/)
 
 安裝相關套件
 
